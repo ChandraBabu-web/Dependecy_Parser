@@ -20,5 +20,3 @@ The Telugu MURIL BERT model is based on the Multilingual Representations for Ind
 #Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvement, please open an issue or create a pull request.
 
-#Contact
-For questions or inquiries, please contact Chandra Babu.
